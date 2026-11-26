@@ -1,0 +1,6 @@
+{
+  "name": "SAMUDRA AI",
+  "description": "Agentic AI-powered marine intelligence and satellite Earth Observation decision support platform for Potential Fishing Zones, oceanography, and maritime safety.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
